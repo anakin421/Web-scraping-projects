@@ -1,0 +1,1 @@
+- this scrapy project will scrap the data from the http://quotes.toscrape.com/ website and stored the scraped data into the sqlite3 database. 
